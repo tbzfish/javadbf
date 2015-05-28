@@ -1,0 +1,3 @@
+JavaDBF is a Java library for reading and writing Xbase (dBase/DBF) files. This library is useful when you want to exchange data with another application which can accept/provide only DBF files.
+
+This project had been hosted at http://sarovar.org/projects/javadbf/ until its shutdown. Originally released in year 2003 and 50,000 downloads as of 2013 December and still in demand. Hosting here to ensure continued availability of the library.
